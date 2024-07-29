@@ -1,0 +1,11 @@
+.buttons {
+    display: flex;
+    flex-direction: row;
+    gap: 4px;
+    margin: 20px 0;
+}
+
+.btn {
+    padding: 6px;
+    font-size: 16px;
+}
